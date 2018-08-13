@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\kummer\desktop\main.cpp(106): warning C4244: "argument": konwersja z "double" do "const time_t", możliwa utrata danych
+c:\users\kummer\desktop\main.cpp(535): warning C4244: "argument": konwersja z "time_t" do "double", możliwa utrata danych
+  Maze.vcxproj -> C:\Users\Kummer\Desktop\Maze\Maze\Debug\Maze.exe
+  Maze.vcxproj -> C:\Users\Kummer\Desktop\Maze\Maze\Debug\Maze.pdb (Partial PDB)
